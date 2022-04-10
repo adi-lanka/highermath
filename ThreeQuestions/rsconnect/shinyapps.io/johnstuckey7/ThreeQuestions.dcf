@@ -1,0 +1,13 @@
+name: ThreeQuestions
+title: ThreeQuestions
+username:
+account: johnstuckey7
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4699418
+bundleId: 5056564
+url: https://johnstuckey7.shinyapps.io/ThreeQuestions/
+when: 1632239755.40037
+lastSyncTime: 1632239755.40037
+asMultiple: FALSE
+asStatic: FALSE

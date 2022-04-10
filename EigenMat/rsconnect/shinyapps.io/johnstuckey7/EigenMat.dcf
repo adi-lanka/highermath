@@ -1,0 +1,14 @@
+name: EigenMat
+title: EigenMat
+username:
+account: johnstuckey7
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4779313
+bundleId: 5095149
+url: https://johnstuckey7.shinyapps.io/EigenMat/
+when: 1633119011.12617
+lastSyncTime: 1633119011.12617
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: app2.r|calceigen.R|eigencalc.R|oldapp.r
