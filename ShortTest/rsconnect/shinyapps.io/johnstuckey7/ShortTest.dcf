@@ -1,0 +1,13 @@
+name: ShortTest
+title: ShortTest
+username:
+account: johnstuckey7
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5237165
+bundleId: 5311755
+url: https://johnstuckey7.shinyapps.io/ShortTest/
+when: 1638314808.02071
+lastSyncTime: 1638314808.02071
+asMultiple: FALSE
+asStatic: FALSE

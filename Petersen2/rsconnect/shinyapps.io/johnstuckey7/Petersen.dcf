@@ -1,0 +1,13 @@
+name: Petersen
+title: Petersen
+username:
+account: johnstuckey7
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5237218
+bundleId: 5311778
+url: https://johnstuckey7.shinyapps.io/Petersen/
+when: 1638315285.65416
+lastSyncTime: 1638315285.65416
+asMultiple: FALSE
+asStatic: FALSE

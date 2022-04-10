@@ -1,0 +1,13 @@
+observeEvent(input$btni,{compute.and.show("i")})
+observeEvent(input$btnr,{compute.and.show("r")})
+observeEvent(input$btnr2,{compute.and.show("r^2")})
+observeEvent(input$btnr3,{compute.and.show("r^3")})
+observeEvent(input$btnr4,{compute.and.show("r^4")})
+observeEvent(input$btnr5,{compute.and.show("r^5")})
+observeEvent(input$btns,{compute.and.show("s")})
+observeEvent(input$btnsr2,{compute.and.show("sr^2")})
+observeEvent(input$btnsr4,{compute.and.show("sr^4")})
+observeEvent(input$btnv,{compute.and.show("v")})
+observeEvent(input$btnvr4,{compute.and.show("vr^4")})
+observeEvent(input$btnvr2,{compute.and.show("vr^2")})
+

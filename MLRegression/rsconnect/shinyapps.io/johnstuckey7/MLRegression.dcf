@@ -1,0 +1,14 @@
+name: MLRegression
+title: MLRegression
+username:
+account: johnstuckey7
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5141618
+bundleId: 5260129
+url: https://johnstuckey7.shinyapps.io/MLRegression/
+when: 1637105921.14449
+lastSyncTime: 1637105921.14449
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: cereal.csv
