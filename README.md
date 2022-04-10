@@ -1,4 +1,5 @@
 # highermath
+**I got some starter code for some apps from Professor Paul Bamberg (Classic Math with a Modern User Interface) and the rest of the code is by Adi Lanka.**
 **NOTE: First chunk is Cryptocurrency data analysis project
 After are some interactive proofs and quizes.  **
 
