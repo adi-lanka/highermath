@@ -1,0 +1,13 @@
+name: PCAnalysis
+title: PCAnalysis
+username:
+account: johnstuckey7
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5142917
+bundleId: 5260672
+url: https://johnstuckey7.shinyapps.io/PCAnalysis/
+when: 1637120567.35686
+lastSyncTime: 1637120567.35686
+asMultiple: FALSE
+asStatic: FALSE
