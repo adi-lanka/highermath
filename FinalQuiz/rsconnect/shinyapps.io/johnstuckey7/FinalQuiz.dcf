@@ -1,0 +1,13 @@
+name: FinalQuiz
+title: FinalQuiz
+username:
+account: johnstuckey7
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5335015
+bundleId: 5378802
+url: https://johnstuckey7.shinyapps.io/FinalQuiz/
+when: 1639629140.73984
+lastSyncTime: 1639629140.73984
+asMultiple: FALSE
+asStatic: FALSE
